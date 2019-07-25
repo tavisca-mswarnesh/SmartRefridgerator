@@ -1,9 +1,6 @@
 ﻿namespace SmartRefridgerator
 {
-    public interface INotifier
-    {
 
-    }
     public class Notifier
     {
         VegetableTracker vegetableTracker;
